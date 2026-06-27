@@ -98,11 +98,11 @@ Libraries：STM32库
 
 !\[car](Images/car.jpg)
 
-
+完赛视频在bilibili
 
 \## 作者
 
 
-
+bilibili：DonteLeung
 Github：DonteLeung7
 
